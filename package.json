@@ -1,6 +1,6 @@
 {
   "name": "is-jwt",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Determine if a string is JSON Web Token (JWT)",
   "license": "MIT",
   "repository": "HugeThoughts/is-jwt",
