@@ -24,9 +24,9 @@ isJWT(VALID_JWT);
 
 ## API
 
-### isJwt(input, [options])
+### isJWT(token)
 
-#### input
+#### token
 
 Type: `string`
 
