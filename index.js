@@ -6,5 +6,5 @@ module.exports = (input, opts) => {
 
 	opts = opts || {};
 
-	return /^([a-zA-Z0-9_=]+)\.([a-zA-Z0-9_=]+)\.([a-zA-Z0-9_\-\+\/=]*)/.test(input);
+	return /^([a-zA-Z0-9\-_=]+)\.([a-zA-Z0-9\-_=]+)\.([a-zA-Z0-9\-_=]*)/.test(input);
 };
